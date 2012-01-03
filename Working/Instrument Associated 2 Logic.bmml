@@ -1,0 +1,134 @@
+<mockup version="1.0" skin="sketch" measuredW="1441" measuredH="901" mockupW="1440" mockupH="900">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="213" y="264" w="1198" h="544" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logic%20Map</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::FieldSet" x="213" y="168" w="1198" h="96" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Information</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Component" x="224" y="180" w="192" h="73" measuredW="192" measuredH="73" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#ID%20Breif</src>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Component" x="418" y="181" w="193" h="74" measuredW="193" measuredH="74" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Location%20Brief</src>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Component" x="615" y="182" w="194" h="75" measuredW="194" measuredH="75" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Context%20Brief</src>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Component" x="471" y="455" w="148" h="89" measuredW="148" measuredH="89" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Logic%20Element</src>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Component" x="645" y="597" w="148" h="89" measuredW="148" measuredH="89" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Logic%20Element</src>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Component" x="647" y="456" w="148" h="89" measuredW="148" measuredH="89" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Logic%20Element</src>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Component" x="817" y="457" w="148" h="89" measuredW="148" measuredH="89" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Logic%20Element</src>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Component" x="635" y="277" w="148" h="89" measuredW="148" measuredH="89" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Logic%20Element</src>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Component" x="1028" y="459" w="148" h="89" measuredW="148" measuredH="89" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Logic%20Element</src>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Component" x="1043" y="306" w="148" h="89" measuredW="148" measuredH="89" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Logic%20Element</src>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Component" x="817" y="598" w="148" h="89" measuredW="148" measuredH="89" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Logic%20Element</src>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Component" x="423" y="588" w="148" h="89" measuredW="148" measuredH="89" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Logic%20Element</src>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Component" x="961" y="496" w="75" h="41" measuredW="75" measuredH="41" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Relationship%20Left</src>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Component" x="1078" y="392" w="67" h="71" measuredW="67" measuredH="71" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Relationship%20Down</src>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Component" x="669" y="364" w="67" h="59" measuredW="67" measuredH="59" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="29" y="0" w="10" h="59"/>
+        <override controlID="1" x="0" y="15" w="67" h="23"/>
+        <src>./assets/R2%20Symbols.bmml#Relationship%20Down</src>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::HRule" x="511" y="421" w="380" h="-1" measuredW="100" measuredH="5" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Component" x="509" y="422" w="10" h="35" measuredW="10" measuredH="35" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="10" h="35"/>
+        <src>./assets/R2%20Symbols.bmml#Arrow%20Down</src>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Component" x="697" y="424" w="10" h="35" measuredW="10" measuredH="35" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="10" h="35"/>
+        <src>./assets/R2%20Symbols.bmml#Arrow%20Down</src>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Component" x="887" y="426" w="10" h="35" measuredW="10" measuredH="35" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="10" h="35"/>
+        <src>./assets/R2%20Symbols.bmml#Arrow%20Down</src>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Component" x="684" y="542" w="67" h="59" measuredW="67" measuredH="59" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="29" y="0" w="10" h="59"/>
+        <override controlID="1" x="0" y="15" w="67" h="23"/>
+        <src>./assets/R2%20Symbols.bmml#Relationship%20Down</src>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Component" x="858" y="545" w="67" h="59" measuredW="67" measuredH="59" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="29" y="0" w="10" h="59"/>
+        <override controlID="1" x="0" y="15" w="67" h="23"/>
+        <src>./assets/R2%20Symbols.bmml#Relationship%20Down</src>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Component" x="571" y="630" w="75" h="39" measuredW="75" measuredH="39" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/R2%20Symbols.bmml#Relationship%20Right</src>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Component" x="1" y="1" w="1440" h="900" measuredW="1440" measuredH="900" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/App%20Window%20Plain.bmml</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

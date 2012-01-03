@@ -1,0 +1,323 @@
+<mockup version="1.0" skin="sketch" measuredW="1443" measuredH="900" mockupW="1440" mockupH="900">
+  <controls>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Canvas" x="1175" y="149" w="228" h="18" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>7317724</color>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::Component" x="3" y="0" w="1440" h="900" measuredW="1440" measuredH="900" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="2">
+          <text>A%20Web%20Page%0Ahttp%3A//</text>
+        </override>
+        <override controlID="26">
+          <text>Related%20Variables%3A%20Oregon%20Basin%20North%20Salinity</text>
+        </override>
+        <override controlID="28">
+          <selectedIndex>3</selectedIndex>
+        </override>
+        <override controlID="37">
+          <selectedIndex>16</selectedIndex>
+        </override>
+        <src>./assets/App%20Window%20Plain.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="128" controlTypeID="__group__" x="283" y="121" w="1132" h="19" measuredW="1132" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="1096" y="1" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="0" locked="false" isInGroup="128">
+          <controlProperties>
+            <icon>CircledPlusIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="1116" y="1" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="1" locked="false" isInGroup="128">
+          <controlProperties>
+            <icon>CircledMinusIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="110" y="0" w="98" h="-1" measuredW="89" measuredH="19" zOrder="2" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>10</size>
+            <text>Data%20Product</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::ComboBox" x="213" y="0" w="98" h="-1" measuredW="69" measuredH="19" zOrder="3" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>10</size>
+            <text>Contains</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::CheckBox" x="1" y="1" w="104" h="16" measuredW="104" measuredH="22" zOrder="4" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>10</size>
+            <text>Context%20Sensitive</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="316" y="0" w="98" h="-1" measuredW="69" measuredH="19" zOrder="5" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>10</size>
+            <text>Variable</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::ComboBox" x="522" y="0" w="98" h="-1" measuredW="70" measuredH="19" zOrder="6" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>10</size>
+            <text>Distance</text>
+          </controlProperties>
+        </control>
+        <control controlID="8" controlTypeID="com.balsamiq.mockups::ComboBox" x="419" y="0" w="98" h="-1" measuredW="63" measuredH="19" zOrder="7" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>10</size>
+            <text>Salinity</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::ComboBox" x="660" y="0" w="98" h="-1" measuredW="71" measuredH="19" zOrder="8" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>10</size>
+            <text>25%20Miles</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="625" y="1" w="-1" h="-1" measuredW="30" measuredH="17" zOrder="9" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>10</size>
+            <text>within</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::ComboBox" x="763" y="0" w="98" h="-1" measuredW="47" measuredH="19" zOrder="10" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>10</size>
+            <text>Any</text>
+          </controlProperties>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="866" y="1" w="-1" h="-1" measuredW="33" measuredH="17" zOrder="11" locked="false" isInGroup="128">
+          <controlProperties>
+            <size>10</size>
+            <text>Depth</text>
+          </controlProperties>
+        </control>
+        <control controlID="13" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="1" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="12" locked="false" isInGroup="128">
+          <controlProperties>
+            <icon>CheckMarkIcon%7Cxsmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="150" controlTypeID="com.balsamiq.mockups::Canvas" x="600" y="384" w="404" h="194" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>7317724</borderColor>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="151" controlTypeID="com.balsamiq.mockups::Canvas" x="208" y="172" w="1211" h="639" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="152" controlTypeID="com.balsamiq.mockups::Canvas" x="210" y="174" w="1210" h="634" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="153" controlTypeID="com.balsamiq.mockups::Arrow" x="268" y="514" w="250" h="100" measuredW="150" measuredH="100" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="154" controlTypeID="com.balsamiq.mockups::Arrow" x="514" y="476" w="250" h="42" measuredW="150" measuredH="100" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::Arrow" x="764" y="476" w="250" h="107" measuredW="150" measuredH="100" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::Arrow" x="273" y="574" w="406" h="107" measuredW="150" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="157" controlTypeID="com.balsamiq.mockups::Arrow" x="1004" y="477" w="406" h="107" measuredW="150" measuredH="100" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="158" controlTypeID="com.balsamiq.mockups::Arrow" x="678" y="580" w="250" h="107" measuredW="150" measuredH="100" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="159" controlTypeID="com.balsamiq.mockups::Arrow" x="928" y="580" w="486" h="107" measuredW="150" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <curvature>0</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>false</rightArrow>
+      </controlProperties>
+    </control>
+    <control controlID="163" controlTypeID="com.balsamiq.mockups::Image" x="231" y="260" w="1180" h="539" measuredW="560" measuredH="425" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Multisource%2520Salinity.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="164" controlTypeID="com.balsamiq.mockups::Canvas" x="580" y="708" w="512" h="94" measuredW="100" measuredH="70" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="165" controlTypeID="com.balsamiq.mockups::Canvas" x="719" y="192" w="180" h="37" measuredW="100" measuredH="70" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>40463</borderColor>
+        <borderStyle>square</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="166" controlTypeID="com.balsamiq.mockups::Canvas" x="373" y="193" w="180" h="37" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>13576743</borderColor>
+        <borderStyle>square</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="167" controlTypeID="com.balsamiq.mockups::Canvas" x="1063" y="194" w="180" h="37" measuredW="100" measuredH="70" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>2848996</borderColor>
+        <borderStyle>square</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="169" controlTypeID="__group__" x="1177" y="142" w="246" h="28" measuredW="246" measuredH="28" zOrder="21" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="1" w="246" h="27" measuredW="246" measuredH="27" zOrder="0" locked="false" isInGroup="169">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="6" w="246" h="19" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>none</borderStyle>
+                <color>7317724</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="42" y="0" w="144" h="16" measuredW="135" measuredH="15" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>0</color>
+                <size>8</size>
+                <text>Last%20Data%20Received%3A%20YYYY-MM-DD%20</text>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="7" y="6" w="30" h="16" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <backgroundAlpha>1</backgroundAlpha>
+                <bold>true</bold>
+                <color>13576743</color>
+                <markup>false</markup>
+                <shape>circle</shape>
+                <size>12</size>
+                <text>QC</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="41" y="11" w="145" h="16" measuredW="136" measuredH="15" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>0</color>
+                <size>8</size>
+                <text>Next%20Data%20Expected%3A%20YYYY-MM-DD%20</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="180" y="0" w="-1" h="-1" measuredW="61" measuredH="15" zOrder="1" locked="false" isInGroup="169">
+          <controlProperties>
+            <color>0</color>
+            <size>8</size>
+            <text>Open%20Tickets%3A%201</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Canvas" x="371" y="190" w="186" h="44" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>7317724</borderColor>
+        <color>7317724</color>
+      </controlProperties>
+    </control>
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::FieldSet" x="216" y="181" w="1198" h="624" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Salinity</text>
+      </controlProperties>
+    </control>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::DataGrid" x="221" y="192" w="1189" h="38" measuredW="611" measuredH="39" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>14803425</alternateRowColor>
+        <borderStyle>none</borderStyle>
+        <color>14803425</color>
+        <hasHeader>false</hasHeader>
+        <rowHeight>16</rowHeight>
+        <selectedIndex>-1</selectedIndex>
+        <size>10</size>
+        <text>Data%20Products%3A%09Oregon%20Basin%20North%20Salinity%09Oregon%20Basin%20Central%20Salinity%09Oregon%20Basin%20South%20Salinity%0A%0900.0000%5C%2C%20-%2000.0000%20Depth%3A%202000%20M%0900.0000%5C%2C%20-%2000.0000%20Depth%3A%202000%20M%0900.0000%5C%2C%20-%2000.0000%20Depth%3A%202000%20M</text>
+        <vLines>false</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::LineChart" x="241" y="262" w="1166" h="501" measuredW="187" measuredH="175" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::Canvas" x="369" y="188" w="188" h="48" measuredW="100" measuredH="70" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>7317724</borderColor>
+        <color>7317724</color>
+      </controlProperties>
+    </control>
+    <control controlID="175" controlTypeID="com.balsamiq.mockups::Canvas" x="367" y="186" w="192" h="52" measuredW="100" measuredH="70" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>7317724</borderColor>
+        <color>7317724</color>
+      </controlProperties>
+    </control>
+    <control controlID="176" controlTypeID="__group__" x="465" y="814" w="123" h="83" measuredW="123" measuredH="83" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Data%20Dropdown</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="1" y="0" w="120" h="-1" measuredW="74" measuredH="22" zOrder="1" locked="false" isInGroup="176">
+          <controlProperties>
+            <size>12</size>
+            <text>Related</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::List" x="5" y="22" w="114" h="58" measuredW="100" measuredH="126" zOrder="2" locked="false" isInGroup="176">
+          <controlProperties>
+            <borderStyle>none</borderStyle>
+            <hrefs>%2C</hrefs>
+            <rowHeight>16</rowHeight>
+            <selectedIndex>1</selectedIndex>
+            <size>10</size>
+            <text>Similar%20Data%20Products%0ASimilar%20Variables%0AAntecedents</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="17" w="123" h="66" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="176"/>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,336 @@
+<mockup version="1.0" skin="sketch" measuredW="1442" measuredH="1122" mockupW="1440" mockupH="1122">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="2" y="0" w="1440" h="1122" measuredW="1440" measuredH="1122" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="32" x="96" y="96" w="487" h="-1"/>
+        <override controlID="2" x="0" y="0" w="1440" h="900"/>
+        <override controlID="35" x="1174" y="84" w="-1" h="-1"/>
+        <override controlID="37" x="4" y="120" w="200" h="755">
+          <selectedIndex>2</selectedIndex>
+        </override>
+        <override controlID="9" x="96" y="74" w="487" h="-1"/>
+        <override controlID="10" x="1" y="70" w="1439" h="50"/>
+        <override controlID="43" x="1279" y="152" w="-1" h="-1"/>
+        <override controlID="44" x="205" y="172" w="1211" h="950"/>
+        <override controlID="45" x="1258" y="149" w="15" h="15"/>
+        <override controlID="46" x="1212" y="149" w="15" h="15"/>
+        <override controlID="15" x="205" y="116" w="1231" h="25"/>
+        <override controlID="48" x="1234" y="149" w="15" h="15"/>
+        <override controlID="49" x="205" y="142" w="1223" h="25"/>
+        <override controlID="42" x="1279" y="143" w="-1" h="-1"/>
+        <override controlID="11" x="194" y="861" w="1230" h="30"/>
+        <override controlID="20" x="7" y="306" w="178" h="-1"/>
+        <override controlID="47" x="1188" y="149" w="15" h="15"/>
+        <override controlID="25" x="202" y="139" w="1232" h="700"/>
+        <override controlID="26" x="210" y="144" w="-1" h="-1">
+          <text>Practical%20Salinity%20Data%20Process%20Definition%20Facepage</text>
+        </override>
+        <override controlID="19" x="7" y="242" w="178" h="-1"/>
+        <override controlID="28" x="205" y="814" w="-1" h="-1"/>
+        <override controlID="21" x="211" y="121" w="-1" h="-1"/>
+        <override controlID="30" x="7" y="72" w="85" h="43"/>
+        <src>./assets/App%20Window%20Plain.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="210" y="188" w="192" h="121" measuredW="192" measuredH="121" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="192" h="121"/>
+        <override controlID="1" x="3" y="12" w="180" h="101">
+          <text>Data%20Process%3A%09Practical%20Salinity%0AName%3A%09PRACSAL%0AData%20Product%20Level%3A%09L2%0AID%3A%09Unique%20ID%0AVersion%3A%09V1.1%0ACreated%3A%09YYY-MM-DD%0A%7B0R%2C0L%7D</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#ID%20Breif</src>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::FieldSet" x="205" y="173" w="204" h="601" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Information</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Component" x="212" y="319" w="191" h="316" measuredW="191" measuredH="316" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="191" h="316"/>
+        <override controlID="2" x="4" y="17" w="182" h="292">
+          <text>The%20practical%20salinity%20of%20seawater%20is%20a%20function%20of%20temperature%2C%20salinity%2C%20and%20pressure.%20These%20are%20the%20Level%201%20sensor%20products%20from%20the%20CTD%20instrument.%20%20%0A%20%0APractical%20salinity%20is%20based%20on%20the%20UNESCO%201980%20Practical%20Salinity%20algorithm%20and%20the%20TEOS-10%20algorithm%20for%20practical%20salinity%20uses%20the%20same%20mathematics.%20%20Both%20are%20in%20use%20today%20and%20both%20are%20regarded%20as%20the%20standards%20for%20calculations%20of%20salinity%20based%20on%20conductivity%20measurements%20from%20CTDs.%20%20Both%20have%20been%20vetted%20by%20international%20groups%20of%20scientists%20%28see%20references%20UNESCO%2C%201980%20and%20TEOS-10%2C%202010%29%20and%20are%20the%20standard%20methods%20used%20to%20calculate%20salinity%20from%20conductivity%20rather%20than%20chlorinity%20%28Feistel%2C%202008%2C%20Fofonoff%20and%20Millard%2C%201983%29.%20%20</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Description</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Component" x="211" y="635" w="194" h="125" measuredW="194" measuredH="125" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="194" h="125"/>
+        <override controlID="1" x="4" y="15" w="186" h="102">
+          <text>Owner%3A%2C%20Owner%20Name%0AEmail%3A%2COwner%20Email%0APhone%3A%2C%28+1%29555-555-5555%0API%3A%2CPI%20Name%0AEmail%3A%2CPI%20Email%0APhone%3A%2C%28+1%29555-555-5555%0A%7B0R%2C0L%7D</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Provenance</src>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="__group__" x="412" y="474" w="998" h="299" measuredW="998" measuredH="299" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="998" h="299" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="16">
+          <controlProperties>
+            <text>Latest%20Notes</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="27" y="164" w="237" h="20" measuredW="67" measuredH="20" zOrder="1" locked="false" isInGroup="16">
+          <controlProperties>
+            <bold>true</bold>
+            <size>12</size>
+            <text>Add%20a%20Note</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="27" y="184" w="939" h="75" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="16">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="836" y="265" w="129" h="27" measuredW="86" measuredH="27" zOrder="3" locked="false" isInGroup="16">
+          <controlProperties>
+            <text>Save%20Note</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="10" y="20" w="968" h="44" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="16">
+          <controlProperties>
+            <size>10</size>
+            <text>YYYY-MM-DD%20Contributer%27s%20Name%20or%20ID%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Paragraph" x="10" y="68" w="968" h="44" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="16">
+          <controlProperties>
+            <size>10</size>
+            <text>YYYY-MM-DD%20Contributer%27s%20Name%20or%20ID%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Paragraph" x="14" y="123" w="968" h="44" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="16">
+          <controlProperties>
+            <size>10</size>
+            <text>YYYY-MM-DD%20Contributer%27s%20Name%20or%20ID%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="411" y="322" w="1003" h="151" measuredW="1003" measuredH="151" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Sensors</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="1003" h="151" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="17">
+          <controlProperties>
+            <color>15658734</color>
+            <text>Events</text>
+          </controlProperties>
+        </control>
+        <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="181" y="18" w="119" h="20" measuredW="119" measuredH="20" zOrder="3" locked="false" isInGroup="17">
+          <controlProperties>
+            <size>12</size>
+            <text>Total%20Events%3A%2000000</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::TabBar" x="5" y="20" w="991" h="122" measuredW="220" measuredH="100" zOrder="1" locked="false" isInGroup="17">
+          <controlProperties>
+            <selectedIndex>0</selectedIndex>
+            <text>Recent%2CScheduled</text>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="__group__" x="11" y="49" w="981" h="86" measuredW="981" measuredH="86" zOrder="2" locked="false" isInGroup="17">
+          <controlProperties>
+            <controlName>Status%20Detail%20Readings</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="981" h="86" measuredW="524" measuredH="85" zOrder="0" locked="false" isInGroup="18">
+              <controlProperties>
+                <rowHeight>16</rowHeight>
+                <size>10</size>
+                <text>Date%2CType%2CEvent%2CDescription%2CInitiated%20By%2CNotes%0AYYYY-MM-DD%20HH%3AMM%3ASS%2CType%2CEvent%20Name%2CText%20description%20of%20event%2CName%20of%20Initiator%2CText%20notes%0AYYYY-MM-DD%20HH%3AMM%3ASS%2CType%2CEvent%20Name%2CText%20description%20of%20event%2CName%20of%20Initiator%2CText%20notes%0AYYYY-MM-DD%20HH%3AMM%3ASS%2CType%2CEvent%20Name%2CText%20description%20of%20event%2CName%20of%20Initiator%2CText%20notes%0AYYYY-MM-DD%20HH%3AMM%3ASS%2CType%2CEvent%20Name%2CText%20description%20of%20event%2CName%20of%20Initiator%2CText%20notes%0A%7B10L%2C10L%2C10L%2C30L%2C5L%2C35L%7D</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="411" y="171" w="1001" h="151" measuredW="1001" measuredH="151" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Sensors</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="1001" h="151" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="18">
+          <controlProperties>
+            <color>15658734</color>
+            <text>Data%20Products</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::TabBar" x="9" y="20" w="991" h="122" measuredW="507" measuredH="100" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <selectedIndex>0</selectedIndex>
+            <text>Data%20Products%20Currently%20Applied%20To%20%284%29%2CAvailable%20Data%20Products%20%2854%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="__group__" x="14" y="48" w="981" h="86" measuredW="981" measuredH="86" zOrder="2" locked="false" isInGroup="18">
+          <controlProperties>
+            <controlName>Status%20Detail%20Readings</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="981" h="86" measuredW="562" measuredH="117" zOrder="0" locked="false" isInGroup="18">
+              <controlProperties>
+                <rowHeight>16</rowHeight>
+                <size>10</size>
+                <text>Data%20Product%20Applied%20To%09Resulting%20Data%20Product%09Start%20Date%09Scheduled%20Frequency%09Last%20Applied%0AOregon%20Basin%20North%20CDT%09Oregon%20Basin%20North%20Salinity%09YYYY-MM-DD%09Schedule%20Description%09YYYY-MM-DD%0AOregon%20Basin%20Central%20CDT%09Oregon%20Basin%20Central%20Salinity%09YYYY-MM-DD%09Schedule%20Description%09YYYY-MM-DD%0AOregon%20Basin%20South%20CDT%09Oregon%20Basin%20South%20Salinity%09YYYY-MM-DD%09Schedule%20Description%09YYYY-MM-DD%0AData%20Product%20Name%09Resultiung%20Data%20Product%20Name%09YYYY-MM-DD%09Schedule%20Description%09YYYY-MM-DD%0AData%20Product%20Name%09Resultiung%20Data%20Product%20Name%09YYYY-MM-DD%09Schedule%20Description%09YYYY-MM-DD%0AData%20Product%20Name%09Resultiung%20Data%20Product%20Name%09YYYY-MM-DD%09Schedule%20Description%09YYYY-MM-DD%0A%7B20L%2C20L%2C10L%2C40L%2C10L%7D</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="1175" y="147" w="228" h="18" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>7317724</color>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="__group__" x="210" y="775" w="1197" h="161" measuredW="1197" measuredH="161" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="1197" h="161" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="36">
+          <controlProperties>
+            <color>15658734</color>
+            <text>Details</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="637" y="18" w="329" h="134" measuredW="329" measuredH="134" zOrder="1" locked="false" isInGroup="36">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="329" h="134" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Policies</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="11" y="26" w="300" h="101" measuredW="195" measuredH="71" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <alternateRowColor>16777215</alternateRowColor>
+                <borderStyle>none</borderStyle>
+                <hasHeader>false</hasHeader>
+                <rowHeight>16</rowHeight>
+                <selectedIndex>-1</selectedIndex>
+                <size>10</size>
+                <text>YYYY-MM-DD%2CPolicy%20Title%2C%20Source%0AYYYY-MM-DD%2CPolicy%20Title%2C%20Source%0AYYYY-MM-DD%2CPolicy%20Title%2C%20Source%0AYYYY-MM-DD%2CPolicy%20Title%2C%20Source</text>
+                <vLines>false</vLines>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="7" y="18" w="268" h="131" measuredW="268" measuredH="131" zOrder="2" locked="false" isInGroup="36">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="268" h="131">
+              <text>Applies%20To</text>
+            </override>
+            <override controlID="1" x="4" y="13" w="256" h="108">
+              <text>Instrument%20Class%3A%09CTDPF%0AInstrument%20Name%3A%09CTD%20profiler%0ADescription%3A%09CTD%20used%20on%20profilers%0ARegime%3A%09Water%20Column%0A%7B0R%090L%7D</text>
+            </override>
+            <src>./assets/R2%20Symbols.bmml#Table</src>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="286" y="18" w="340" h="133" measuredW="340" measuredH="133" zOrder="3" locked="false" isInGroup="36">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="340" h="133">
+              <text>History</text>
+            </override>
+            <override controlID="1" x="4" y="11" w="310" h="111">
+              <text>Current%20Version%3A%09V1.1%0AVersion%20Date%3A%09YYYY-MM-DD%0AFirst%20Version%3A%09V1.0%0AFirst%20Version%20Date%3A%09YYYY-MM-DD%0AFirst%20Deployment%3A%09YYYY-MM-DD%0AFirst%20Deployment%20Site%3A%09Pioneer%20Profiler%20Moorings%0A%7B0R%090L%7D</text>
+            </override>
+            <src>./assets/R2%20Symbols.bmml#Table</src>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Component" x="977" y="18" w="208" h="135" measuredW="208" measuredH="135" zOrder="4" locked="false" isInGroup="36">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="208" h="135">
+              <text>Documentation</text>
+            </override>
+            <override controlID="1" x="4" y="11" w="198" h="115">
+              <text>ATBD%3A%091341-00004%0A%7B0R%090L%7D</text>
+            </override>
+            <src>./assets/R2%20Symbols.bmml#Table</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="37" controlTypeID="__group__" x="214" y="937" w="1201" h="177" measuredW="1201" measuredH="177" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="1201" h="177" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="37">
+          <controlProperties>
+            <color>15658734</color>
+            <text>Algorithm%20Overview</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="315" y="15" w="194" h="149" measuredW="194" measuredH="149" zOrder="1" locked="false" isInGroup="37">
+          <controlProperties>
+            <override controlID="0" x="0" y="0" w="194" h="149">
+              <text>Inputs</text>
+            </override>
+            <override controlID="1" x="4" y="11" w="186" h="92">
+              <text>L1%20Temperature%20%5BC%5D%0AL1%20Pressure%20%28sea%20pressure%29%20%5Bdbar%5D%0AL1%20Conductivity%20%5BS/m%5D</text>
+            </override>
+            <src>./assets/R2%20Symbols.bmml#Table</src>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="512" y="15" w="200" h="150" measuredW="200" measuredH="150" zOrder="2" locked="false" isInGroup="37">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="200" h="150" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>Outputs</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="7" y="16" w="182" h="43" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>10</size>
+                <text>Practical%20salinity%20of%20seawater%20%28unitless%20%u2013%20PSS%20scale%29%20as%20a%20double%20precision%20floating%20point%20number.%20</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="715" y="15" w="281" h="151" measuredW="281" measuredH="151" zOrder="3" locked="false" isInGroup="37">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="281" h="151" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <text>Output%20Accuracy</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="7" y="15" w="265" h="133" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <size>10</size>
+                <text>%B10.01%20mS/cm%20for%20conductivity%20measurements%20from%20gliders%2C%20AUVs%2C%20and%20fixed%20instruments%20located%20closer%20to%20the%20surface%20than%20200%20m%0A%20%0A%B10.003%20mS/cm%20for%20conductivity%20measurements%20taken%20below%20200%20m%0A0.002%20%20%B0C%20for%20temperature%0A%20%0A0.1%25%20of%20full-scale%20value%20for%20pressure%2C%20e.g.%2C%203%20dbar%20for%20a%203000%20m%20unit%20</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="999" y="15" w="192" h="152" measuredW="192" measuredH="152" zOrder="4" locked="false" isInGroup="37">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="192" h="152" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <text>Calibration</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="7" y="15" w="174" h="44" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <size>10</size>
+                <text>Not%20applicable</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="5" controlTypeID="__group__" x="11" y="15" w="301" h="147" measuredW="301" measuredH="147" zOrder="5" locked="false" isInGroup="37">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="301" h="147" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="5">
+              <controlProperties>
+                <text>Algorithm%20Description</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="7" y="15" w="284" h="103" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="5">
+              <controlProperties>
+                <size>10</size>
+                <text>Practical%20Salinity%20is%20calculated%20using%20the%20function%20%0ASP%20%3D%20gsw_SP_from_C%28C%2Ct%2Cp%29%0AWhere%20SP%20is%20practical%20salinity%2C%20C%20is%20conductivity%20in%20mS/cm%2C%20t%20is%20temperature%20in%20degrees%20C%2C%20and%20p%20is%20pressure%20in%20dbar%20and%20all%20inputs%20are%20the%20in%20situ%20values%20reported%20by%20the%20CTD%20and%20converted%20to%20L1%20products.</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,63 @@
+<mockup version="1.0" skin="sketch" measuredW="1442" measuredH="900" mockupW="1440" mockupH="900">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="217" y="436" w="1184" h="321" measuredW="787" measuredH="309" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rowHeight>16</rowHeight>
+        <size>10</size>
+        <text>%20%23%09Status%09Name%09Position%09Type%09ID%09Model%23/Part%23%09Manufacturer%09Description%09Category%0A1%09%28%29%09Salinity%09%09Salinity%09OOI-3482%099085-3729%09Sea-Bird%20Electronics%20Inc.%09%09Sensor%0A2%09%28%29%09Temperature%09%09Temperature%09OOI-3579%099085-3729%09Sea-Bird%20Electronics%20Inc.%09%09Sensor%0A3%09%28%29%09Conductivity%09%09Conductivity%09OOI-9876%099085-3729%09Sea-Bird%20Electronics%20Inc.%09%09Sensor%0A4%09%28%29%09Sound%20Speed%09%09Sound%20Velocity%09OOI-6483%099085-3729%09Sea-Bird%20Electronics%20Inc.%09%09Sensor%0A5%09%28%29%09Density%09%09Density%09OOI-9926%099085-3729%09Sea-Bird%20Electronics%20Inc.%09%09Sensor%0A6%09%28%29%09SigmaT%09%09Sigma%20T%09OOI-1179%099085-3729%09Sea-Bird%20Electronics%20Inc.%09%09Sensor%0A%09%09Configuration%20Reference%09%09%09OOI-xxxx%091234-0987%09%09%09Documentation%0A%09%09Wiring%20%26%20Power%20Diagrams%09%09%09OOI-xxxx%091234-0987%09%09%09Documentation%0A%09%09Inductive%20Modem%09%09%09OOI-xxxx%091234-0987%09Cysco%09%09Communications%0A%09%09%20Processor%09%09%09OOI-xxxx%091234-0987%09%09%09Control%0A%09%09%09%09%09%09%09%09%09%0A%09%09State%20Switch%09%09%09OOI-xxxx%091234-0987%09%09%09Control%0A%09%09Bypass%20Switch%09%09%09OOI-xxxx%091234-0987%09%09%09Connector%0A%09%09Eye-Clevis%20Coupler%09%09%09OOI-xxxx%091234-0987%09%09%09Connector%0A%09%09Configuration%20Files%09%09%09OOI-xxxx%091234-0987%09%09%09Software%0A%09%09Construction%20Specs%20%26%20Drawings%09%09%09OOI-xxxx%091234-0987%09%09%09Software%0A%09%09Device%20Drivers%09%09%09OOI-xxxx%09%09%09%09Software%0A7%09%28%29%09Titanium%20Housing%09%09%09%09%09%09%09Other%0A%7B0%2C0C%2C0%2C10%2C0%2C0%2C0%2C0%2C30%2C0%7D</text>
+        <vLines>false</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="424" y="182" w="652" h="221" measuredW="2853" measuredH="1024" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Instrument%2520Schematic.png</src>
+        <text>Schematic%20%28Optionally%20Numbered%20or%20Keyed%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::FieldSet" x="211" y="416" w="1199" h="350" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Components</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::FieldSet" x="416" y="170" w="997" h="242" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Schematic</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="__group__" x="208" y="169" w="204" h="243" measuredW="204" measuredH="243" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="204" h="243" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="12">
+          <controlProperties>
+            <text>Information</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="5" y="16" w="192" h="73" measuredW="192" measuredH="73" zOrder="1" locked="false" isInGroup="12">
+          <controlProperties>
+            <override controlID="1">
+              <text>Name%3A%2CInstrument%20Name%0AID%3A%2CUnique%20ID%0AType%3A%2CInstrument%20Type%0A%7B0R%2C0L%7D</text>
+            </override>
+            <src>./assets/R2%20Symbols.bmml#ID%20Breif</src>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="4" y="86" w="193" h="74" measuredW="193" measuredH="74" zOrder="2" locked="false" isInGroup="12">
+          <controlProperties>
+            <src>./assets/R2%20Symbols.bmml#Location%20Brief</src>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="5" y="158" w="194" h="75" measuredW="194" measuredH="75" zOrder="3" locked="false" isInGroup="12">
+          <controlProperties>
+            <src>./assets/R2%20Symbols.bmml#Context%20Brief</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Component" x="2" y="0" w="1440" h="900" measuredW="1440" measuredH="900" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="26">
+          <text>Composite%3A%20SBE%20Mirocat%20CTD</text>
+        </override>
+        <src>./assets/App%20Window%20Status.bmml</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,224 @@
+<mockup version="1.0" skin="sketch" measuredW="1443" measuredH="1012" mockupW="1442" mockupH="1011">
+  <controls>
+    <control controlID="7" controlTypeID="__group__" x="208" y="168" w="1198" h="241" measuredW="1198" measuredH="241" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="208" y="0" w="990" h="240" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="7">
+          <controlProperties>
+            <text>Status%20Overview</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::PieChart" x="244" y="54" w="140" h="143" measuredW="180" measuredH="180" zOrder="1" locked="false" isInGroup="7"/>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::ColumnChart" x="418" y="60" w="142" h="133" measuredW="187" measuredH="175" zOrder="2" locked="false" isInGroup="7"/>
+        <control controlID="7" controlTypeID="__group__" x="779" y="22" w="402" h="198" measuredW="402" measuredH="198" zOrder="3" locked="false" isInGroup="7">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="402" h="198" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="7">
+              <controlProperties>
+                <text>Recent%20Trouble%20Tickets</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="9" y="23" w="378" h="163" measuredW="281" measuredH="89" zOrder="1" locked="false" isInGroup="7">
+              <controlProperties>
+                <rowHeight>16</rowHeight>
+                <size>10</size>
+                <text>Active%2CDate%2CDevice%2CReport%0A%5Bv%5D%2CYY-MM-DD%2CDevice%20Name%2CBrief%20description%0A%5Bv%5D%2CYY-MM-DD%2CDevice%20Name%2CBrief%20description%0A%5Bv%5D%2CYY-MM-DD%2CDevice%20Name%2CBrief%20description%0A%5Bv%5D%2CYY-MM-DD%2CDevice%20Name%2CBrief%20description%0A%7B0L%2C0L%2C%2025%2C%2075%7D</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="11" controlTypeID="__group__" x="0" y="0" w="204" h="241" measuredW="204" measuredH="241" zOrder="4" locked="false" isInGroup="7">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="204" h="241" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="11">
+              <controlProperties>
+                <text>Information</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Component" x="5" y="16" w="192" h="72" measuredW="192" measuredH="72" zOrder="1" locked="false" isInGroup="11">
+              <controlProperties>
+                <override controlID="0" x="0" y="0" w="192" h="72"/>
+                <override controlID="1" x="3" y="12" w="180" h="54">
+                  <text>Name%3A%2CInstrument%20Name%0AID%3A%2CUnique%20ID%0AType%3A%2CInstrument%20Type%0A%7B0R%2C0L%7D</text>
+                </override>
+                <src>./assets/R2%20Symbols.bmml#ID%20Breif</src>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Component" x="4" y="85" w="193" h="73" measuredW="193" measuredH="73" zOrder="2" locked="false" isInGroup="11">
+              <controlProperties>
+                <override controlID="0" x="0" y="0" w="193" h="73"/>
+                <override controlID="2" x="4" y="14" w="179" h="53"/>
+                <src>./assets/R2%20Symbols.bmml#Location%20Brief</src>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Component" x="5" y="157" w="194" h="74" measuredW="194" measuredH="74" zOrder="3" locked="false" isInGroup="11">
+              <controlProperties>
+                <override controlID="0" x="0" y="0" w="194" h="74"/>
+                <override controlID="1" x="4" y="11" w="186" h="55"/>
+                <src>./assets/R2%20Symbols.bmml#Context%20Brief</src>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="587" y="53" w="173" h="138" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="7">
+          <controlProperties>
+            <src>./assets/Images/Watch%2520Circle.png</src>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::FieldSet" x="208" y="557" w="1203" h="455" measuredW="200" measuredH="170" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Science%20Sensors%20Status</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Component" x="214" y="574" w="392" h="196" measuredW="392" measuredH="196" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Salinity</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Sensor%20Status%20Graph%20</src>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Component" x="610" y="577" w="392" h="196" measuredW="392" measuredH="196" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Temperature</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Sensor%20Status%20Graph%20</src>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Component" x="1012" y="579" w="392" h="196" measuredW="392" measuredH="196" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Conductivity</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Sensor%20Status%20Graph%20</src>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Component" x="207" y="414" w="1199" h="140" measuredW="1199" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Engineering%20Sensor%20Status</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Sensor%20Status</src>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Component" x="212" y="773" w="392" h="196" measuredW="392" measuredH="196" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Sound%20Velocity</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Sensor%20Status%20Graph%20</src>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Component" x="1010" y="779" w="392" h="196" measuredW="392" measuredH="196" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Density</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Sensor%20Status%20Graph%20</src>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Component" x="609" y="777" w="392" h="196" measuredW="392" measuredH="196" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Pressure</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Sensor%20Status%20Graph%20</src>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="__group__" x="233" y="975" w="1034" h="36" measuredW="1034" measuredH="36" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MediaControls" x="924" y="0" w="-1" h="-1" measuredW="110" measuredH="36" zOrder="0" locked="false" isInGroup="53"/>
+        <control controlID="1" controlTypeID="__group__" x="333" y="0" w="213" h="25" measuredW="213" measuredH="25" zOrder="1" locked="false" isInGroup="53">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::DateChooser" x="26" y="0" w="187" h="-1" measuredW="159" measuredH="25" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>2011-11-15%2024%3A00Z</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="24" h="20" measuredW="24" measuredH="20" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <align>right</align>
+                <bold>true</bold>
+                <size>12</size>
+                <text>To%3A</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2" controlTypeID="__group__" x="91" y="0" w="228" h="25" measuredW="228" measuredH="25" zOrder="2" locked="false" isInGroup="53">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="3" w="38" h="20" measuredW="38" measuredH="20" zOrder="0" locked="false" isInGroup="2">
+              <controlProperties>
+                <align>right</align>
+                <bold>true</bold>
+                <size>12</size>
+                <text>From%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::DateChooser" x="41" y="0" w="187" h="-1" measuredW="159" measuredH="25" zOrder="1" locked="false" isInGroup="2">
+              <controlProperties>
+                <text>2011-11-14%2024%3A00Z</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="1" w="80" h="-1" measuredW="80" measuredH="22" zOrder="3" locked="false" isInGroup="53">
+          <controlProperties>
+            <size>12</size>
+            <text>Last%20Day</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="546" y="1" w="174" h="22" measuredW="174" measuredH="22" zOrder="4" locked="false" isInGroup="53">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="71" y="0" w="103" h="-1" measuredW="55" measuredH="22" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <size>12</size>
+                <text>Line</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="1" w="65" h="20" measuredW="60" measuredH="20" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <align>right</align>
+                <bold>true</bold>
+                <size>12</size>
+                <text>Plot%20Type%3A</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Component" x="1" y="1" w="1442" h="900" measuredW="1442" measuredH="900" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="2" x="0" y="0" w="1440" h="900"/>
+        <override controlID="9" x="98" y="74" w="487" h="-1"/>
+        <override controlID="10" x="3" y="70" w="1439" h="50"/>
+        <override controlID="11" x="206" y="843" w="1230" h="30"/>
+        <override controlID="15" x="207" y="118" w="1231" h="25"/>
+        <override controlID="21" x="213" y="121" w="-1" h="-1"/>
+        <override controlID="25" x="204" y="143" w="1232" h="700"/>
+        <override controlID="26" x="212" y="144" w="-1" h="-1">
+          <text>Status%20Instrument%20Name</text>
+        </override>
+        <override controlID="28" x="207" y="814" w="-1" h="-1"/>
+        <override controlID="30" x="9" y="72" w="85" h="43"/>
+        <override controlID="32" x="98" y="96" w="487" h="-1"/>
+        <override controlID="35" x="1176" y="84" w="-1" h="-1"/>
+        <override controlID="42" x="1281" y="143" w="-1" h="-1"/>
+        <override controlID="43" x="1281" y="152" w="-1" h="-1"/>
+        <override controlID="44" x="208" y="169" w="1215" h="646"/>
+        <override controlID="45" x="1260" y="149" w="15" h="15"/>
+        <override controlID="46" x="1214" y="149" w="15" h="15"/>
+        <override controlID="47" x="1190" y="149" w="15" h="15"/>
+        <override controlID="48" x="1236" y="149" w="15" h="15"/>
+        <override controlID="56" x="903" y="147" w="264" h="17"/>
+        <override controlID="58" x="6" y="118" w="200" h="755"/>
+        <override controlID="59" x="9" y="236" w="178" h="-1"/>
+        <override controlID="60" x="9" y="334" w="178" h="-1"/>
+        <override controlID="62" x="207" y="143" w="1225" h="25"/>
+        <override controlID="63" x="11" y="396" w="178" h="-1"/>
+        <src>./assets/App%20Window%20Status%20Alert.bmml</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

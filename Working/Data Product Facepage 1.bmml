@@ -1,0 +1,360 @@
+<mockup version="1.0" skin="sketch" measuredW="1440" measuredH="1147" mockupW="1440" mockupH="1147">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="1440" h="1147" measuredW="1440" measuredH="1147" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="32" x="96" y="96" w="487" h="-1"/>
+        <override controlID="35" x="1174" y="84" w="-1" h="-1"/>
+        <override controlID="37" x="4" y="118" w="200" h="755">
+          <selectedIndex>2</selectedIndex>
+        </override>
+        <override controlID="42" x="1279" y="143" w="-1" h="-1"/>
+        <override controlID="9" x="96" y="74" w="487" h="-1"/>
+        <override controlID="2" x="0" y="0" w="1440" h="900"/>
+        <override controlID="43" x="1279" y="152" w="-1" h="-1"/>
+        <override controlID="44" x="200" y="167" w="1215" h="980"/>
+        <override controlID="45" x="1258" y="149" w="15" h="15"/>
+        <override controlID="46" x="1212" y="149" w="15" h="15"/>
+        <override controlID="47" x="1188" y="149" w="15" h="15"/>
+        <override controlID="48" x="1234" y="149" w="15" h="15"/>
+        <override controlID="49" x="207" y="142" w="1231" h="25"/>
+        <override controlID="10" x="1" y="70" w="1439" h="50"/>
+        <override controlID="11" x="204" y="843" w="1230" h="30"/>
+        <override controlID="20" x="7" y="300" w="178" h="-1"/>
+        <override controlID="21" x="211" y="121" w="-1" h="-1"/>
+        <override controlID="15" x="205" y="118" w="1231" h="25"/>
+        <override controlID="25" x="202" y="143" w="1232" h="700"/>
+        <override controlID="26" x="210" y="144" w="-1" h="-1">
+          <text>Facepage%3A%20Oregon%20Basin%20North%20Salinity%20Data%20Product</text>
+        </override>
+        <override controlID="19" x="7" y="236" w="178" h="-1"/>
+        <override controlID="28" x="205" y="814" w="-1" h="-1"/>
+        <override controlID="30" x="7" y="72" w="85" h="43"/>
+        <src>./assets/App%20Window%20Plain.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::FieldSet" x="203" y="165" w="208" h="887" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Information</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Component" x="214" y="489" w="191" h="103" measuredW="191" measuredH="103" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="191" h="103"/>
+        <override controlID="2" x="4" y="15" w="182" h="88"/>
+        <src>./assets/R2%20Symbols.bmml#Description</src>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Component" x="213" y="629" w="192" h="125" measuredW="192" measuredH="125" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="192" h="125"/>
+        <override controlID="1" x="4" y="15" w="184" h="102">
+          <text>Owner%3A%2C%20Owner%20Name%0AEmail%3A%2COwner%20Email%0APhone%3A%2C%28+1%29555-555-5555%0API%3A%2CPI%20Name%0AEmail%3A%2CPI%20Email%0APhone%3A%2C%28+1%29555-555-5555%0A%7B0R%2C0L%7D</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Provenance</src>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Component" x="212" y="181" w="192" h="123" measuredW="192" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="192" h="123"/>
+        <override controlID="1" x="3" y="12" w="180" h="102">
+          <text>Name%3A%09Oregon%20Basin%20North%20%0A%09Salinity%0AProduct%20Level%3A%09L2%0AID%3A%09Unique%20ID%0ARegistered%3A%09YYYY-MM-DD%0AVersion%3A%09Current%0A%7B0R%2C0L%7D</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#ID%20Breif</src>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Component" x="428" y="184" w="300" h="107" measuredW="300" measuredH="107" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="300" h="107">
+          <text>Data%20Information</text>
+        </override>
+        <override controlID="1" x="7" y="14" w="218" h="87">
+          <text>Format%3A%09Data%20Format%0AType%3A%09Grid%0ARepresentation%3A%09Grid%0AProduct%20Level%3A%09L2%0ADownload%20Size%3A%090000%20bytes%0A%7B0R%090L%7D</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Table</src>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="212" y="304" w="193" h="320" measuredW="193" measuredH="320" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="2:2:0" x="0" y="0" w="45" h="34"/>
+        <override controlID="2:1:0" x="0" y="0" w="62" h="18"/>
+        <override controlID="2:2" x="43" y="0" w="45" h="88"/>
+        <override controlID="2:2:1" x="0" y="55" w="45" h="33"/>
+        <src>./assets/R2%20Symbols.bmml#Data%20Bounds</src>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::FieldSet" x="417" y="168" w="996" h="273" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <text>Data%20Preview</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="__group__" x="413" y="514" w="998" h="315" measuredW="998" measuredH="315" zOrder="10" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="998" h="315" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="39">
+          <controlProperties>
+            <text>Latest%20Notes</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="53" y="169" w="237" h="20" measuredW="67" measuredH="20" zOrder="1" locked="false" isInGroup="39">
+          <controlProperties>
+            <bold>true</bold>
+            <size>12</size>
+            <text>Add%20a%20Note</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="91" y="187" w="850" h="86" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="39">
+          <controlProperties>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="812" y="279" w="129" h="27" measuredW="86" measuredH="27" zOrder="3" locked="false" isInGroup="39">
+          <controlProperties>
+            <text>Save%20Note</text>
+          </controlProperties>
+        </control>
+        <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="10" y="20" w="968" h="44" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="39">
+          <controlProperties>
+            <size>10</size>
+            <text>YYYY-MM-DD%20Contributer%27s%20Name%20or%20ID%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+          </controlProperties>
+        </control>
+        <control controlID="10" controlTypeID="com.balsamiq.mockups::Paragraph" x="10" y="68" w="968" h="44" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="39">
+          <controlProperties>
+            <size>10</size>
+            <text>YYYY-MM-DD%20Contributer%27s%20Name%20or%20ID%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+          </controlProperties>
+        </control>
+        <control controlID="11" controlTypeID="com.balsamiq.mockups::Paragraph" x="14" y="122" w="968" h="44" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="39">
+          <controlProperties>
+            <size>10</size>
+            <text>YYYY-MM-DD%20Contributer%27s%20Name%20or%20ID%0ALorem%20ipsum%20dolor%20sit%20amet%2C%20consectetur%20adipisicing%20elit%2C%20sed%20do%20eiusmod%20tempor%20incididunt%20ut%20labore%20et%20dolore%20magna%20aliqua.%20Ut%20enim%20ad%20minim%20veniam%2C%20quis%20nostrud%20exercitation%20ullamco%20laboris%20nisi%20ut%20aliquip%20ex%20ea%20commodo%20consequat.%20Duis%20aute%20irure%20dolor%20in%20reprehenderit%20in%20voluptate%20velit%20esse%20cillum%20dolore%20eu%20fugiat%20nulla%20pariatur.%20Excepteur%20sint%20occaecat%20cupidatat%20non%20proident%2C%20sunt%20in%20culpa%20qui%20officia%20deserunt%20mollit%20anim%20id%20est%20laborum.</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="40" controlTypeID="__group__" x="413" y="831" w="993" h="151" measuredW="993" measuredH="151" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Sensors</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="993" h="151" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="40">
+          <controlProperties>
+            <color>15658734</color>
+            <text>Events</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::TabBar" x="9" y="20" w="983" h="122" measuredW="220" measuredH="100" zOrder="1" locked="false" isInGroup="40">
+          <controlProperties>
+            <selectedIndex>0</selectedIndex>
+            <text>Recent%2CScheduled</text>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="__group__" x="13" y="49" w="973" h="86" measuredW="973" measuredH="86" zOrder="2" locked="false" isInGroup="40">
+          <controlProperties>
+            <controlName>Status%20Detail%20Readings</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="973" h="86" measuredW="524" measuredH="85" zOrder="0" locked="false" isInGroup="18">
+              <controlProperties>
+                <rowHeight>16</rowHeight>
+                <size>10</size>
+                <text>Date%2CType%2CEvent%2CDescription%2CInitiated%20By%2CNotes%0AYYYY-MM-DD%20HH%3AMM%3ASS%2CType%2CEvent%20Name%2CText%20description%20of%20event%2CName%20of%20Initiator%2CText%20notes%0AYYYY-MM-DD%20HH%3AMM%3ASS%2CType%2CEvent%20Name%2CText%20description%20of%20event%2CName%20of%20Initiator%2CText%20notes%0AYYYY-MM-DD%20HH%3AMM%3ASS%2CType%2CEvent%20Name%2CText%20description%20of%20event%2CName%20of%20Initiator%2CText%20notes%0AYYYY-MM-DD%20HH%3AMM%3ASS%2CType%2CEvent%20Name%2CText%20description%20of%20event%2CName%20of%20Initiator%2CText%20notes%0A%7B10L%2C10L%2C10L%2C30L%2C5L%2C35L%7D</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="41" controlTypeID="__group__" x="410" y="982" w="997" h="151" measuredW="997" measuredH="151" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Sensors</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="997" h="151" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="41">
+          <controlProperties>
+            <color>15658734</color>
+            <text>Processing</text>
+          </controlProperties>
+        </control>
+        <control controlID="17" controlTypeID="com.balsamiq.mockups::TabBar" x="9" y="20" w="987" h="122" measuredW="447" measuredH="100" zOrder="1" locked="false" isInGroup="41">
+          <controlProperties>
+            <selectedIndex>0</selectedIndex>
+            <text>Processes%20Currently%20Applied%20%284%29%2CAvailable%20Processes%20%2821%29</text>
+          </controlProperties>
+        </control>
+        <control controlID="18" controlTypeID="__group__" x="14" y="48" w="977" h="86" measuredW="977" measuredH="86" zOrder="2" locked="false" isInGroup="41">
+          <controlProperties>
+            <controlName>Status%20Detail%20Readings</controlName>
+          </controlProperties>
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="977" h="86" measuredW="508" measuredH="85" zOrder="0" locked="false" isInGroup="18">
+              <controlProperties>
+                <rowHeight>16</rowHeight>
+                <size>10</size>
+                <text>Process%09Resulting%20Data%20Product%09Start%20Date%09Scheduled%20Frequency%09Last%20Applied%0AProcess%20Name%09Resultiung%20Data%20Product%20Name%09YYYY-MM-DD%09Schedule%20Description%09YYYY-MM-DD%0AProcess%20Name%09Resultiung%20Data%20Product%20Name%09YYYY-MM-DD%09Schedule%20Description%09YYYY-MM-DD%0AProcess%20Name%09Resultiung%20Data%20Product%20Name%09YYYY-MM-DD%09Schedule%20Description%09YYYY-MM-DD%0AProcess%20Name%09Resultiung%20Data%20Product%20Name%09YYYY-MM-DD%09Schedule%20Description%09YYYY-MM-DD%0A%7B20L%2C20L%2C10L%2C40L%2C10L%7D</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="42" controlTypeID="__group__" x="414" y="440" w="1002" h="74" measuredW="1002" measuredH="74" zOrder="9" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="1002" h="74" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="42">
+          <controlProperties>
+            <text>Variables%20Information</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="7" y="20" w="985" h="42" measuredW="867" measuredH="133" zOrder="1" locked="false" isInGroup="42">
+          <controlProperties>
+            <rowHeight>16</rowHeight>
+            <size>10</size>
+            <text>Variable%09Short%20Name%09Long%20Name%09Total%20Uncertainty%09Missing%20Value%09Max%20Sampling%20Rate%09Min%20Sampling%20Rate%09Character%20Set%09Source%0ASalinity%09%20Name%09L%20Name%09Uncertainty%20Estimate%09Value%09Rate%09Rate%09Char%20Set%09Name%20of%20Source%20Data%20Product%20%28or%20oringinal%29%0AVar%09S%20Name%09L%20Name%09Uncertainty%20Estimate%09Value%09Rate%09Rate%09Char%20Set%09Name%20of%20Source%20Data%20Product%20%28or%20oringinal%29%0AVar%09S%20Name%09L%20Name%09Uncertainty%20Estimate%09Value%09Rate%09Rate%09Char%20Set%09Name%20of%20Source%20Data%20Product%20%28or%20oringinal%29%0AVar%09S%20Name%09L%20Name%09Uncertainty%20Estimate%09Value%09Rate%09Rate%09Char%20Set%09Name%20of%20Source%20Data%20Product%20%28or%20oringinal%29%0AVar%09S%20Name%09L%20Name%09Uncertainty%20Estimate%09Value%09Rate%09Rate%09Char%20Set%09Name%20of%20Source%20Data%20Product%20%28or%20oringinal%29%0AVar%09S%20Name%09L%20Name%09Uncertainty%20Estimate%09Value%09Rate%09Rate%09Char%20Set%09Name%20of%20Source%20Data%20Product%20%28or%20oringinal%29%0AVar%09S%20Name%09L%20Name%09Uncertainty%20Estimate%09Value%09Rate%09Rate%09Char%20Set%09Name%20of%20Source%20Data%20Product%20%28or%20oringinal%29%0A%7B20L%2C15L%2C15L%2C5L%2C5L%2C5L%2C5L%2C20L%7D</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Button" x="536" y="381" w="-1" h="-1" measuredW="78" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Download</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Component" x="206" y="757" w="204" h="185" measuredW="204" measuredH="185" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="204" h="185">
+          <text>Project%20%20Information</text>
+        </override>
+        <override controlID="1" x="4" y="13" w="194" h="162">
+          <text>Project%3A%09Project%20Name%0AData%20Contact%3A%09Contact%20Name%0AEmail%3A%09Contact%20Email%0AMetadata%20Contact%3A%09Contact%20Name%0AEmail%3A%09Contact%20Email%0AAcknowledgement%3A%09Words%20about%20%0A%09support%0ALicense%3A%09Licensing%20information%0A%09if%20any%20goes%20here%0A%7B0R%090L%7D</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Table</src>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="__group__" x="204" y="944" w="205" h="100" measuredW="205" measuredH="100" zOrder="15" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="205" h="100" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="46">
+          <controlProperties>
+            <text>Policies</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="9" y="18" w="180" h="77" measuredW="195" measuredH="71" zOrder="1" locked="false" isInGroup="46">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>false</hasHeader>
+            <rowHeight>16</rowHeight>
+            <selectedIndex>-1</selectedIndex>
+            <size>10</size>
+            <text>YYYY-MM-DD%2CPolicy%20Title%2C%20Source%0AYYYY-MM-DD%2CPolicy%20Title%2C%20Source%0AYYYY-MM-DD%2CPolicy%20Title%2C%20Source%0AYYYY-MM-DD%2CPolicy%20Title%2C%20Source</text>
+            <vLines>false</vLines>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="52" controlTypeID="__group__" x="727" y="181" w="667" h="254" measuredW="667" measuredH="254" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="0" w="667" h="254" measuredW="207" measuredH="100" zOrder="0" locked="false" isInGroup="52">
+          <controlProperties>
+            <text>Quik%20Plot%2CValues</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::LineChart" x="7" y="30" w="413" h="213" measuredW="187" measuredH="175" zOrder="1" locked="false" isInGroup="52"/>
+        <control controlID="2" controlTypeID="__group__" x="418" y="40" w="228" h="197" measuredW="228" measuredH="197" zOrder="2" locked="false" isInGroup="52">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::MediaControls" x="70" y="161" w="-1" h="-1" measuredW="110" measuredH="36" zOrder="0" locked="false" isInGroup="2"/>
+            <control controlID="1" controlTypeID="__group__" x="0" y="95" w="228" h="59" measuredW="228" measuredH="59" zOrder="1" locked="false" isInGroup="2">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::DateChooser" x="41" y="34" w="187" h="-1" measuredW="159" measuredH="25" zOrder="0" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <text>2011-11-15%2024%3A00Z</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="3" w="38" h="20" measuredW="38" measuredH="20" zOrder="1" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <align>right</align>
+                    <bold>true</bold>
+                    <size>12</size>
+                    <text>From%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="15" y="34" w="24" h="20" measuredW="24" measuredH="20" zOrder="2" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <align>right</align>
+                    <bold>true</bold>
+                    <size>12</size>
+                    <text>To%3A</text>
+                  </controlProperties>
+                </control>
+                <control controlID="3" controlTypeID="com.balsamiq.mockups::DateChooser" x="41" y="0" w="187" h="-1" measuredW="159" measuredH="25" zOrder="3" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <text>2011-11-14%2024%3A00Z</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::ComboBox" x="110" y="57" w="80" h="-1" measuredW="80" measuredH="22" zOrder="2" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>12</size>
+                <text>Last%20Day</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::ComboBox" x="108" y="0" w="103" h="-1" measuredW="44" measuredH="22" zOrder="3" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>12</size>
+                <text>All</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="29" y="57" w="73" h="20" measuredW="73" measuredH="20" zOrder="4" locked="false" isInGroup="2">
+              <controlProperties>
+                <align>right</align>
+                <bold>true</bold>
+                <size>12</size>
+                <text>Date%20Range%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="33" y="3" w="69" h="20" measuredW="61" measuredH="20" zOrder="5" locked="false" isInGroup="2">
+              <controlProperties>
+                <align>right</align>
+                <bold>true</bold>
+                <size>12</size>
+                <text>Variables%3A</text>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="108" y="28" w="103" h="-1" measuredW="55" measuredH="22" zOrder="6" locked="false" isInGroup="2">
+              <controlProperties>
+                <size>12</size>
+                <text>Line</text>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="37" y="29" w="65" h="20" measuredW="60" measuredH="20" zOrder="7" locked="false" isInGroup="2">
+              <controlProperties>
+                <align>right</align>
+                <bold>true</bold>
+                <size>12</size>
+                <text>Plot%20Type%3A</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Component" x="428" y="289" w="300" h="145" measuredW="300" measuredH="145" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="300" h="145">
+          <text>Processing%20Information</text>
+        </override>
+        <override controlID="1" x="7" y="14" w="282" h="121">
+          <text>Data%20Process%3A%09Practical%20Salinity%0AProcess%3A%09PRACSAL%0AVersion%3A%09V1.1%0AQuality%20Control%20Level%3A%09A%0ASource%20Data%3A%09Oregon%20Basin%20North%20Temperature%0A%09Oregon%20Basin%20North%20Conductivity%0A%09Oregon%20Basin%20North%20Pressure%0A%7B20R%0980L%7D</text>
+        </override>
+        <src>./assets/R2%20Symbols.bmml#Table</src>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Canvas" x="1175" y="147" w="228" h="18" measuredW="100" measuredH="70" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>7317724</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

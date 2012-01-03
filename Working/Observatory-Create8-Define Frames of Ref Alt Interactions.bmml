@@ -1,0 +1,199 @@
+<mockup version="1.0" skin="sketch" measuredW="2163" measuredH="1206" mockupW="2144" mockupH="1194">
+  <controls>
+    <control controlID="215" controlTypeID="__group__" x="1163" y="904" w="1000" h="302" measuredW="1000" measuredH="302" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="0" w="1000" h="302" measuredW="331" measuredH="100" zOrder="0" locked="false" isInGroup="215">
+          <controlProperties>
+            <color>11839446</color>
+            <selectedIndex>1</selectedIndex>
+            <size>10</size>
+            <text>Delegations%2CFrames%20of%20Reference%2CVocabulary</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="7" y="32" w="982" h="46" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="215">
+          <controlProperties>
+            <text>Settings</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::CheckBox" x="16" y="44" w="150" h="22" measuredW="150" measuredH="22" zOrder="2" locked="false" isInGroup="215">
+          <controlProperties>
+            <size>10</size>
+            <text>Show%20Frames%20of%20Reference</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::CheckBox" x="181" y="42" w="96" h="22" measuredW="96" measuredH="22" zOrder="3" locked="false" isInGroup="215">
+          <controlProperties>
+            <size>10</size>
+            <text>Show%20Locations</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="6" y="85" w="984" h="203" measuredW="609" measuredH="197" zOrder="4" locked="false" isInGroup="215">
+          <controlProperties>
+            <rowHeight>16</rowHeight>
+            <size>10</size>
+            <text>%09Frames%20of%20Reference%09%09Nsme%09Spatial%20Extent%09Temporal%20Extent%0A%20%0A+-%09CISN%20Standard%0A%09%09+-%09Oregon%20Basin%20North%09lat%2000.0000%20lon%2000.0000%20rad%200000%20m%0A%09%09+-%09Oregon%20Basin%20South%09lat%2000.0000%20lon%2000.0000%20rad%200000%20m%09%0A%09%09+-%09California%20Basin%20North%09Oregon%20Basin%20South%0A%09%09+-%09California%20Basin%20South%09lat%2000.0000%20lon%2000.0000%20rad%200000%20m%0A%09%09+-%09Oregon%20Basin%20Central%09Oregon%20Basin%20North%20-%20Oregon%20Basin%20South%0A%09%09+-%09California%20Basin%20Central%09California%20Basin%20North%20-%20California%20Basin%20South%0A%09%09+-%09Week%201%09%0A%09%09+-%09Week%202%0A%09%09+-%09Study%20Period%09%09Week%201%20-%20Week%202%20%0A%7B2C%0930L%090L%0930L%0930L%0930L%7D</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="218" controlTypeID="__group__" x="45" y="367" w="1000" h="104" measuredW="1000" measuredH="104" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="0" w="1000" h="104" measuredW="267" measuredH="100" zOrder="0" locked="false" isInGroup="218">
+          <controlProperties>
+            <color>11839446</color>
+            <selectedIndex>0</selectedIndex>
+            <size>10</size>
+            <text>Frames%20of%20Reference%2CVocabulary</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="8" y="36" w="984" h="57" measuredW="984" measuredH="57" zOrder="1" locked="false" isInGroup="218">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="984" h="57" measuredW="689" measuredH="197" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <rowHeight>16</rowHeight>
+                <size>10</size>
+                <text>%09Frames%20of%20Reference%09%09Nsme%09Spatial%20Extent%09Temporal%20Extent%0A+-%09CISN%20Standard%0A%20%09Create%20New%09%20%20%20%09name%09lat/lon%20-%20rardius%20or%20reference%09time%20or%20referece%20-%20time%20or%20referece%0A%09%09+-%09Oregon%20Basin%20North%09lat%2000.0000%20lon%2000.0000%20rad%200000%20m%0A%09%09+-%09Oregon%20Basin%20South%09lat%2000.0000%20lon%2000.0000%20rad%200000%20m%09%0A%09%09+-%09California%20Basin%20North%09Oregon%20Basin%20South%0A%09%09+-%09California%20Basin%20South%09lat%2000.0000%20lon%2000.0000%20rad%200000%20m%0A%09%09+-%09Oregon%20Basin%20Central%09Oregon%20Basin%20North%20-%20Oregon%20Basin%20South%0A%09%09+-%09California%20Basin%20Central%09California%20Basin%20North%20-%20California%20Basin%20South%0A%09%09+-%09Week%201%09%0A%09%09+-%09Week%202%0A%09%09+-%09Study%20Period%09%09Week%201%20-%20Week%202%20%0A%7B2C%0930L%090L%0930L%0930L%0930L%7D</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="24" w="977" h="28" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="1">
+              <controlProperties>
+                <backgroundAlpha>0.25</backgroundAlpha>
+                <borderStyle>none</borderStyle>
+                <color>7775663</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="231" controlTypeID="__group__" x="1163" y="367" w="1000" h="288" measuredW="1000" measuredH="288" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="0" w="1000" h="288" measuredW="331" measuredH="100" zOrder="0" locked="false" isInGroup="231">
+          <controlProperties>
+            <color>11839446</color>
+            <selectedIndex>1</selectedIndex>
+            <size>10</size>
+            <text>Delegations%2CFrames%20of%20Reference%2CVocabulary</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="9" y="91" w="984" h="180" measuredW="984" measuredH="180" zOrder="1" locked="false" isInGroup="231">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="984" h="96" measuredW="625" measuredH="181" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <rowHeight>16</rowHeight>
+                <size>10</size>
+                <text>%09Frames%20of%20Reference%09%09Nsme%09Spatial%20Extent%09Temporal%20Extent%0A+-%09CISN%20Standard%0A%09%09+-%09Oregon%20Basin%20North%09lat%2000.0000%20lon%2000.0000%20rad%200000%20m%0A%09%09+-%09Oregon%20Basin%20South%09lat%2000.0000%20lon%2000.0000%20rad%200000%20m%09%0A%09%09+-%09California%20Basin%20North%09Oregon%20Basin%0A%09%09+-%09California%20Basin%20South%09lat%2000.0000%20lon%2000.0000%20rad%200000%20m%0A%09%09+-%09Oregon%20Basin%20Central%09Oregon%20Basin%20North%20-%20Oregon%20Basin%20South%0A%09%09+-%09California%20Basin%20Central%09California%20Basin%20North%20-%20California%20Basin%20South%0A%09%09+-%09Week%201%09%0A%09%09+-%09Week%202%0A%09%09+-%09Study%20Period%09%09Week%201%20-%20Week%202%20%0A%7B2C%0930L%090L%0930L%0930L%0930L%7D</text>
+                <verticalScrollbar>true</verticalScrollbar>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="501" y="82" w="224" h="87" measuredW="136" measuredH="87" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <alternateRowColor>16777215</alternateRowColor>
+                <borderStyle>none</borderStyle>
+                <color>16777215</color>
+                <hasHeader>false</hasHeader>
+                <rowHeight>16</rowHeight>
+                <selectedIndex>-1</selectedIndex>
+                <size>10</size>
+                <text>%09Create%20New%0A%09Duplicate%0A%09Use%20All%0A%5B%5D%09Oregon%20Basin%20North%0A%5B%5D%09Oregon%20Basin%20South</text>
+                <vLines>false</vLines>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="501" y="60" w="229" h="120" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="4">
+              <controlProperties>
+                <backgroundAlpha>0.25</backgroundAlpha>
+                <borderStyle>none</borderStyle>
+                <color>7775663</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="232" controlTypeID="__group__" x="45" y="903" w="1000" h="106" measuredW="1000" measuredH="106" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="0" w="1000" h="106" measuredW="267" measuredH="100" zOrder="0" locked="false" isInGroup="232">
+          <controlProperties>
+            <color>11839446</color>
+            <selectedIndex>1</selectedIndex>
+            <size>10</size>
+            <text>Frames%20of%20Reference%2CVocabulary</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="8" y="35" w="984" h="57" measuredW="984" measuredH="57" zOrder="1" locked="false" isInGroup="232">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::DataGrid" x="0" y="0" w="984" h="57" measuredW="603" measuredH="69" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <rowHeight>16</rowHeight>
+                <size>10</size>
+                <text>%09Frames%20of%20Reference%09%09Nsme%09Spatial%20Extent%09Temporal%20Extent%0A+-%20%09CISN%20Standard%0A%09%09+-%09Oregon%20Basin%20North%09lat/lon%20-%20rardius%20or%20reference%09time%20or%20referece%20-%20time%20or%20referece%0A%09%09%09New%0A%7B2C%0930L%090L%0930L%0930L%0930L%7D</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="276" y="34" w="699" h="18" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <backgroundAlpha>0.25</backgroundAlpha>
+                <borderStyle>none</borderStyle>
+                <color>7775663</color>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="236" controlTypeID="com.balsamiq.mockups::StickyNote" x="45" y="233" w="293" h="123" measuredW="109" measuredH="123" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Adding%20new%20Frame%20of%20Reference%20%28CISN%29%0ALight%20bule%20indicates%20where%20the%20user%20is%20entering%20text.%0ASince%20nothing%20matched%20what%20the%20user%20was%20typing%0A%09Create%20New%20is%20presented%20along%20with%20formatting%20hints</text>
+      </controlProperties>
+    </control>
+    <control controlID="237" controlTypeID="com.balsamiq.mockups::StickyNote" x="45" y="773" w="293" h="107" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>User%20selects%20Create%20New%20and%20types%20the%20new%20values%20into%20the%20table.%0ANote%20that%20Create%20New%20is%20the%20default%20choice.%20%20The%20user%20does%20not%20need%20to%20choose%20it%20--%20it%20is%20assumed%20when%20the%20user%20%20moves%20to%20the%20next%20cell.</text>
+      </controlProperties>
+    </control>
+    <control controlID="238" controlTypeID="com.balsamiq.mockups::StickyNote" x="1163" y="230" w="293" h="123" measuredW="109" measuredH="123" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>If%20there%20are%20references%20that%20match%20the%20users%20input%20%28type%20aheae%29%20they%20are%20offered%0AOtherwise%20the%20user%20can%20contiue%20entering%20definnitions</text>
+      </controlProperties>
+    </control>
+    <control controlID="239" controlTypeID="com.balsamiq.mockups::StickyNote" x="1163" y="792" w="293" h="83" measuredW="109" measuredH="123" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Completed%20Frame%20of%20Reference%20Table</text>
+      </controlProperties>
+    </control>
+    <control controlID="240" controlTypeID="com.balsamiq.mockups::CallOut" x="19" y="241" w="36" h="40" measuredW="36" measuredH="40" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1</text>
+      </controlProperties>
+    </control>
+    <control controlID="241" controlTypeID="com.balsamiq.mockups::CallOut" x="26" y="770" w="39" h="40" measuredW="38" measuredH="40" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>2</text>
+      </controlProperties>
+    </control>
+    <control controlID="242" controlTypeID="com.balsamiq.mockups::CallOut" x="1133" y="226" w="38" h="40" measuredW="39" measuredH="43" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3</text>
+      </controlProperties>
+    </control>
+    <control controlID="243" controlTypeID="com.balsamiq.mockups::CallOut" x="1133" y="787" w="39" h="39" measuredW="39" measuredH="39" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4</text>
+      </controlProperties>
+    </control>
+    <control controlID="244" controlTypeID="com.balsamiq.mockups::Title" x="857" y="12" w="-1" h="-1" measuredW="435" measuredH="50" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Details%3A%20Filling%20out%20Tables</text>
+      </controlProperties>
+    </control>
+    <control controlID="245" controlTypeID="com.balsamiq.mockups::StickyNote" x="881" y="70" w="393" h="103" measuredW="109" measuredH="123" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Basic%20Paradigm%3B%0A%09Type%20ahead%20displays%20existing%20options%20in%20multi-select%20dropdown%0A%09User%20may%20also%20choose%20to%20Create%20New%2C%20Duplicate%2C%20or%20Use%20all%20visible%20in%20the%20list</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
