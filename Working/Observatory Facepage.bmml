@@ -61,7 +61,7 @@
                         </control>
                       </groupChildrenDescriptors>
                     </control>
-                    <control controlID="8" controlTypeID="com.balsamiq.mockups::DataGrid" x="16" y="40" w="946" h="205" measuredW="362" measuredH="121" zOrder="1" locked="false" isInGroup="2">
+                    <control controlID="8" controlTypeID="com.balsamiq.mockups::DataGrid" x="12" y="34" w="946" h="205" measuredW="934" measuredH="121" zOrder="1" locked="false" isInGroup="2">
                       <controlProperties>
                         <alternateRowColor>16777215</alternateRowColor>
                         <borderStyle>square</borderStyle>
@@ -70,7 +70,7 @@
                         <rowHeight>25</rowHeight>
                         <selectedIndex>-1</selectedIndex>
                         <size>10</size>
-                        <text>Data%20Product%09Location%09Frequency%0ANorth%20Salinity%09Oregon%20Basin%20North%09Hourly%0ACentral%20Salinity%09Oregon%20Basin%20South/California%20Basin%20North%09As%20available%0ASouth%20Salinity%09California%20Basin%20South%09Hourly%0AAverage%20Salinity%09Averaged%20across%20all%20measures%20reported%09Daily%0A%7B30L%0930L%0930L%7D</text>
+                        <text>Data%20Product%09ID%09Location%09Frequency%09Product%20Level%09Format%09Type%09Representation%09Data%20Process%09Last%20Processed%09Last%20Note%09%09%0ANorth%20Salinity%091234%09Oregon%20Basin%20North%09Hourly%09L2%09NetCDF%09Grid%09Grid%09Practical%20Salinity%09N/A%09N/A%0ACentral%20Salinity%094567%09Oregon%20Basin%20South/California%20Basin%20North%09As%20available%09L2%09NetCDF%09Grid%09Grid%09Practical%20Salinity%09N/A%09N/A%0ASouth%20Salinity%090987%09California%20Basin%20South%09Hourly%09L2%09NetCDF%09Grid%09Grid%09Practical%20Salinity%09N/A%09N/A%0AAverage%20Salinity%094768%09Averaged%20across%20all%20measures%20reported%09Daily%09L2%09NetCDF%09Grid%09Grid%09Practical%20Salinity%09N/A%09N/A</text>
                         <vLines>true</vLines>
                       </controlProperties>
                     </control>
@@ -214,7 +214,10 @@
                 <control controlID="8" controlTypeID="com.balsamiq.mockups::Component" x="6" y="16" w="193" h="171" measuredW="193" measuredH="171" zOrder="7" locked="false" isInGroup="0">
                   <controlProperties>
                     <override controlID="0" x="0" y="0" w="193" h="171"/>
-                    <override controlID="2" x="36" y="14" w="117" h="78"/>
+                    <override controlID="2" x="36" y="14" w="117" h="78">
+                      <src>./assets/OOI-GLOBAL-MOORING-HIGH-REZ-2.jpg</src>
+                      <text/>
+                    </override>
                     <override controlID="3" x="4" y="94" w="180" h="71">
                       <text>Name%3A%09CISN%20Observatory%0AType%3A%09Observatory%0AID%3A%2CUnique%20ID%0ARegistered%3A%09YYYY-MM-DD%0A%7B0R%2C0L%7D</text>
                     </override>
@@ -271,7 +274,7 @@
                         <text>Latest%20Notes</text>
                       </controlProperties>
                     </control>
-                    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="19" y="16" w="406" h="79" measuredW="257" measuredH="87" zOrder="1" locked="false" isInGroup="13">
+                    <control controlID="2" controlTypeID="com.balsamiq.mockups::DataGrid" x="9" y="16" w="432" h="155" measuredW="362" measuredH="167" zOrder="1" locked="false" isInGroup="13">
                       <controlProperties>
                         <alternateRowColor>16777215</alternateRowColor>
                         <borderStyle>none</borderStyle>
@@ -279,37 +282,32 @@
                         <rowHeight>16</rowHeight>
                         <selectedIndex>-1</selectedIndex>
                         <size>10</size>
-                        <text>YYYY-M-DD%2CAuthor%20Name%0A%2Ced%20ut%20perspiciatis%20unde%20omnis%5Cr%0A%2Ciste%20natuserror%20sit%20voluptatem%5Cr%0A%2Caccusantiumdoloremque%20laudantium%5C%2C%5Cr%0A%2Ctotemaperiam%5C%2Ceaque%20ipsa%20quae%20ab%20illo.%0A%7B0R%2C30L%7D</text>
+                        <text>2012-01-10%09Mike%20Manager%0A%09Welcome%20everyone%20to%20the%20first%20week%20of%20CISN%20Observatory%5Cr%0A%09predeployment%20operations.%20%20Please%20check%20this%20spot%20for%20ongoing%5Cr%0A%09updates%20and%20assignments.%5Cr%0A%20%0A2012-01-11%09Data%20Guy%5Cr%0A%20%09I%27ve%20set%20up%20the%20initial%20Data%20Products.%20You%20can%20check%20out%5Cr%0A%09the%20Facepages%20for%20North%20Salinity%5C%2C%20Coastal%20Salinity%5C%2C%20South%5Cr%0A%09Salinity%5C%2C%20and%20Average%20Salinity%20by%20clicking%20on%20them%20in%20the%20Data%5Cr%0A%09Products%20table%20on%20this%20page.</text>
                         <vLines>false</vLines>
                       </controlProperties>
                     </control>
-                    <control controlID="4" controlTypeID="com.balsamiq.mockups::DataGrid" x="19" y="96" w="385" h="64" measuredW="238" measuredH="61" zOrder="2" locked="false" isInGroup="13">
-                      <controlProperties>
-                        <alternateRowColor>16777215</alternateRowColor>
-                        <borderStyle>none</borderStyle>
-                        <hasHeader>false</hasHeader>
-                        <rowHeight>16</rowHeight>
-                        <selectedIndex>-1</selectedIndex>
-                        <size>10</size>
-                        <text>YYY-M-DD%2C%20Author%20Name%0A%2Ced%20ut%20perspiciatis%20unde%20omnis%5Criste%20natuserror%20sit%20voluptatem%5Craccusantiumdoloremque%20laudantium.%0A%7B0R%2C30L%7D</text>
-                        <vLines>false</vLines>
-                      </controlProperties>
-                    </control>
-                    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="27" y="160" w="107" h="20" measuredW="67" measuredH="20" zOrder="3" locked="false" isInGroup="13">
+                    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="27" y="164" w="107" h="20" measuredW="67" measuredH="20" zOrder="2" locked="false" isInGroup="13">
                       <controlProperties>
                         <bold>true</bold>
                         <size>12</size>
                         <text>Add%20a%20Note</text>
                       </controlProperties>
                     </control>
-                    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="39" y="180" w="382" h="86" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="13">
+                    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="39" y="184" w="382" h="86" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="13">
                       <controlProperties>
                         <text/>
                       </controlProperties>
                     </control>
-                    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="269" y="271" w="140" h="27" measuredW="86" measuredH="27" zOrder="5" locked="false" isInGroup="13">
+                    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="269" y="275" w="140" h="27" measuredW="82" measuredH="27" zOrder="4" locked="false" isInGroup="13">
                       <controlProperties>
-                        <text>Save%20Note</text>
+                        <text>Post%20Note</text>
+                      </controlProperties>
+                    </control>
+                    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="306" y="167" w="107" h="20" measuredW="78" measuredH="20" zOrder="5" locked="false" isInGroup="13">
+                      <controlProperties>
+                        <bold>true</bold>
+                        <size>12</size>
+                        <text>More%20Notes...</text>
                       </controlProperties>
                     </control>
                   </groupChildrenDescriptors>
@@ -336,7 +334,7 @@
                           <controlProperties>
                             <rowHeight>16</rowHeight>
                             <size>10</size>
-                            <text>%2CName%2CID%2CType%2CRegion%2COwner%2CUp%20Time%2CLast%20Comm%2C%20Last%20Data%2CLast%20Note%2COpen%20Tickets%0A%28%29%2CMooring%20North%2CID%20Num%2CMooring%2COregon%20Basin%20North%2CPlatform%20Owner%20Name%0A%28%29%2CMooring%20South%2CID%20Num%2CMooring%2CCalifornia%20Basin%20South%2CPlatform%20Owner%20Name%0A%28%29%2CGlider%20Oregon%2CID%20Num%2CGlider%2COregon%20Basin%20Central%2CPlatform%20Owner%20Name%0A%28%29%2CGlider%20California%2CID%20Num%2CGlider%2CCalifornia%20Basin%20Central%2CPlatform%20Owner%20Name%0A%7B2C%2C30L%2C0L%2C30L%2C30L0L%2C0L%2C0L%2C0L%2C0L%2C70L%2C0L%7D</text>
+                            <text>%2CName%2CID%2CType%2CRegion%2COwner%2CUp%20Time%2CLast%20Comm%2C%20Last%20Data%2CLast%20Note%2COpen%20Tickets%0A%28%29%2CMooring%20North%2CID%20Num%2CMooring%2COregon%20Basin%20North%2CCISN%20Observatory%09N/A%09N/A%09N/A%0A%28%29%2CMooring%20South%2CID%20Num%2CMooring%2CCalifornia%20Basin%20South%2CCISN%20Observatory%09N/A%09N/A%09N/A%0A%28%29%2CGlider%20Oregon%2CID%20Num%2CGlider%2COregon%20Basin%20Central%2CCISN%20Observatory%09N/A%09N/A%09N/A%0A%28%29%2CGlider%20California%2CID%20Num%2CGlider%2CCalifornia%20Basin%20Central%2CCISN%20Observatory%09N/A%09N/A%09N/A%0A%7B2C%2C30L%2C0L%2C30L%2C30L0L%2C0L%2C0L%2C0L%2C0L%2C70L%2C0L%7D</text>
                           </controlProperties>
                         </control>
                       </groupChildrenDescriptors>
@@ -355,7 +353,7 @@
                 </control>
                 <control controlID="1" controlTypeID="__group__" x="13" y="13" w="1172" h="241" measuredW="1172" measuredH="241" zOrder="1" locked="false" isInGroup="1">
                   <groupChildrenDescriptors>
-                    <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="0" w="1172" h="241" measuredW="267" measuredH="100" zOrder="0" locked="false" isInGroup="1">
+                    <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="0" w="1172" h="241" measuredW="263" measuredH="100" zOrder="0" locked="false" isInGroup="1">
                       <controlProperties>
                         <color>16777215</color>
                         <selectedIndex>0</selectedIndex>
@@ -363,7 +361,7 @@
                         <text>Frames%20of%20Reference%2CVocabulary</text>
                       </controlProperties>
                     </control>
-                    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="11" y="42" w="1152" h="182" measuredW="637" measuredH="181" zOrder="1" locked="false" isInGroup="1">
+                    <control controlID="1" controlTypeID="com.balsamiq.mockups::DataGrid" x="11" y="42" w="1152" h="182" measuredW="633" measuredH="181" zOrder="1" locked="false" isInGroup="1">
                       <controlProperties>
                         <rowHeight>16</rowHeight>
                         <size>10</size>
